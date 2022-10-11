@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Yamivg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Yamivg/Yamivg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Soy de Héctor
+y llevamos 7 meses 
+Juntos gracias mi amor 
 --->
